@@ -1,3 +1,4 @@
+#dynamic orm inheritance lab complete
 require_relative "../config/environment.rb"
 require 'active_support/inflector'
 
